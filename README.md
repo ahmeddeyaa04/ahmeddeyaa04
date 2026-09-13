@@ -13,7 +13,8 @@
 Electronics and Communication Engineering undergraduate at Tanta University, working across network infrastructure and cloud computing.
 
 🔭 &nbsp;I'm currently working on **getting an AWS Certificate in cloud computing.**  
-🌱 &nbsp;I'm currently learning **Docker and kubernetes**
+🌱 &nbsp;I'm currently learning **Docker and kubernetes**  
+💬 &nbsp;Ask me about **anything you want**
 
 ### 🛠️ Tech Stack
 
