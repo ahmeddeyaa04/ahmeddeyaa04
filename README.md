@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=430&height=44&lines=Cloud%20and%20Network%20Engineer" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=430&height=44&lines=Junior%20Cloud%20and%20DevOps%20Engineer" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -13,7 +13,7 @@
 Electronics and Communication Engineering undergraduate at Tanta University, working across network infrastructure and cloud computing.
 
 🔭 &nbsp;I'm currently working on **getting an AWS Certificate in cloud computing.**  
-🌱 &nbsp;I'm currently learning **Docker and kubernetes**  
+🌱 &nbsp;I'm currently learning **Terraform and kubernetes**  
 💬 &nbsp;Ask me about **anything you want**
 
 ### 🛠️ Tech Stack
